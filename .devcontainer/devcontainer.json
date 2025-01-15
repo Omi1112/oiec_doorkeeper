@@ -23,7 +23,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"adpyke.vscode-sql-formatter"
+				"adpyke.vscode-sql-formatter",
+				"KoichiSasada.vscode-rdbg"
 			]
 		}
 	},
